@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.colour h5{
+    color:green;
+    font-family: cursive;
+    font-size: 50px;
+}
+.move{
+    background-color: black;
+    color: red;
+    font-size: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
